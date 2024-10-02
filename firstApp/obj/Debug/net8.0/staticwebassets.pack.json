@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "D:\\Sources\\LearningPath_Blazor\\firstApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\firstApp.bundle.scp.css",
+      "Id": "d:\\Sources\\LearningPath_Blazor\\firstApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\firstApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\firstApp.bundle.scp.css"
     },
     {
-      "Id": "D:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\app.css",
+      "Id": "d:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "D:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "d:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "d:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\favicon.png",
+      "Id": "d:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

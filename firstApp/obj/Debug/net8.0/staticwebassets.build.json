@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AV62UZbLWt86vch9thdhnHc2GbWybDOrRyntgpIFyNA=",
+  "Hash": "CapLjmXulOB65+S7Z6IpDyCjQ45zeDgS1BM1I7Sl2dU=",
   "Source": "firstApp",
   "BasePath": "_content/firstApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "firstApp\\wwwroot",
       "Source": "firstApp",
-      "ContentRoot": "D:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\",
+      "ContentRoot": "d:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\",
       "BasePath": "_content/firstApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Sources\\LearningPath_Blazor\\firstApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\firstApp.styles.css",
+      "Identity": "d:\\Sources\\LearningPath_Blazor\\firstApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\firstApp.styles.css",
       "SourceId": "firstApp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Sources\\LearningPath_Blazor\\firstApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "d:\\Sources\\LearningPath_Blazor\\firstApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/firstApp",
       "RelativePath": "firstApp.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Sources\\LearningPath_Blazor\\firstApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\firstApp.styles.css"
+      "OriginalItemSpec": "d:\\Sources\\LearningPath_Blazor\\firstApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\firstApp.styles.css"
     },
     {
-      "Identity": "D:\\Sources\\LearningPath_Blazor\\firstApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\firstApp.bundle.scp.css",
+      "Identity": "d:\\Sources\\LearningPath_Blazor\\firstApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\firstApp.bundle.scp.css",
       "SourceId": "firstApp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Sources\\LearningPath_Blazor\\firstApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "d:\\Sources\\LearningPath_Blazor\\firstApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/firstApp",
       "RelativePath": "firstApp.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Sources\\LearningPath_Blazor\\firstApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\firstApp.bundle.scp.css"
+      "OriginalItemSpec": "d:\\Sources\\LearningPath_Blazor\\firstApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\firstApp.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\app.css",
+      "Identity": "d:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\app.css",
       "SourceId": "firstApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\",
+      "ContentRoot": "d:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\",
       "BasePath": "_content/firstApp",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "D:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "d:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "firstApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\",
+      "ContentRoot": "d:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\",
       "BasePath": "_content/firstApp",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "d:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "firstApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\",
+      "ContentRoot": "d:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\",
       "BasePath": "_content/firstApp",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\favicon.png",
+      "Identity": "d:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\favicon.png",
       "SourceId": "firstApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\",
+      "ContentRoot": "d:\\Sources\\LearningPath_Blazor\\firstApp\\wwwroot\\",
       "BasePath": "_content/firstApp",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
