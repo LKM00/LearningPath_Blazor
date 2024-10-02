@@ -27,3 +27,4 @@ D:\Sources\LearningPath_Blazor\firstApp\obj\Debug\net8.0\refint\firstApp.dll
 D:\Sources\LearningPath_Blazor\firstApp\obj\Debug\net8.0\firstApp.pdb
 D:\Sources\LearningPath_Blazor\firstApp\obj\Debug\net8.0\firstApp.genruntimeconfig.cache
 D:\Sources\LearningPath_Blazor\firstApp\obj\Debug\net8.0\ref\firstApp.dll
+d:\Sources\LearningPath_Blazor\firstApp\obj\Debug\net8.0\firstApp.sourcelink.json

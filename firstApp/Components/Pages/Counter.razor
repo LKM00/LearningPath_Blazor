@@ -9,6 +9,17 @@
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
+<br>
+<br>
+
+<input @bind="monInput" />
+<button @onclick="() => monInput = string.Empty">Clear</button>
+
+@code{
+    string monInput = "caca";
+
+}
+
 @code {
     private int currentCount = 0;
 
