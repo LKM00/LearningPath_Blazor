@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: BlazingPizza",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\BlazingPizza\\BlazingPizza.csproj",
+            "launchConfigurationId": "TargetFramework=;BlazingPizza"
+        }
+    ]
+}
